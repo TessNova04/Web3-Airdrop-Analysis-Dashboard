@@ -1,4 +1,4 @@
-# Data Cleaning and Analysis of User Demographics 
+# Data Cleaning and Analysis of User Demographics
 ## Web3 Airdrop Distribution Analysis
 
 ### Project Overview
